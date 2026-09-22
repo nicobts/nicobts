@@ -1,17 +1,21 @@
-## Hi there 👋
+# Nicolas Bossi
 
-<!--
-**nicobts/nicobts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solution architect and DevOps lead. I design, ship, and operate production AI systems — and I run the security and compliance side that most engineers avoid.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://app.daily.dev/nicolas88ts"><img src="https://api.daily.dev/devcards/v2/2x512yqnbHea7P2Og27lA.png?type=default&r=rg2" width="356" alt="Nicolas's Dev Card"/></a>
+**[ActBI](https://actbi.ai)** — DevOps and tech lead on an AI-powered analytics assistant: ask in plain language, get visuals and narrative answers. My ground: cloud infrastructure, agent operations, evals, cost and token efficiency, and the security and compliance track.
+
+**[Shiproom](https://github.com/nicobts/shiproom)** — open-source adversarial AI council that stress-tests project ideas before you build them. Seven seats (CTO, CFO, VC, CMO, CEO, your customer, a Chair), each with a kill mandate, a sourced fact base, and a pre-committed vote: INVEST / SHIP_AND_SEE / SHELVE. Zero-dependency Node CLI; runs in Claude Code, Cursor, Codex, Gemini CLI, and any AGENTS.md-aware agent.
+
+## Background
+
+- 10+ years across IT infrastructure, security operations, and project delivery
+- **ISO/IEC 27001** and **ISO/IEC 42001** (AI management systems) Lead Auditor; hands-on with **NIS2** and **GDPR** compliance
+- Cloud: **GCP** · IaC: **Terraform** · Containers: **Docker, Swarm, Kubernetes** · Languages: **Python, TypeScript**
+
+## Current focus
+
+Open-weight models and local inference, systematic LLM evals, and agentic architectures — MCP, tool design, guardrails.
+
+Klagenfurt, Austria · [nicolasbossi.com](https://nicolasbossi.com) · [LinkedIn](https://www.linkedin.com/in/nicolas-bossi-26a326b3/)
