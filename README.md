@@ -14,7 +14,7 @@ Solution architect and project manager. I lead programs where **compliance, secu
 
 ## Now
 
-**[ActBI](https://actbi.ai)**: DevOps and tech lead on an AI-powered analytics assistant. Ask in plain language, get visuals and narrative answers. I own cloud infrastructure, agent operations, evals, cost and token efficiency, and the security and compliance track.
+**[ActBI](https://actbi.ai)**: I work on the DevOps side of an AI-powered analytics assistant: cloud infrastructure, CI/CD and deployment automation, and security and compliance.
 
 **Blackwall** (formerly BotGuard): Project Manager & Solution Architect, since 2025
 - **ISO 27001 program.** Leading organization-wide certification end to end: ISMS scope, policies, control framework, risk assessment, and cross-functional execution toward the audit.
@@ -68,7 +68,7 @@ Solution architect and project manager. I lead programs where **compliance, secu
 - **Compliance & audit:** ISO 27001 / ISMS, ISO 42001 / AIMS, ISO 19011 audits, NIS2, GDPR, risk assessment, policy writing, control frameworks
 - **Security:** threat modeling, incident response, IAM, network security, WAF, Fortinet
 - **Cloud & DevOps:** GCP, AWS, Oracle Cloud (OCI), Azure, Terraform, Docker, Kubernetes, CI/CD, Proxmox, Linux and Windows Server, Active Directory
-- **Applied AI:** agentic systems, MCP, multimodal RAG, evals, LangChain, LlamaIndex, Qdrant, n8n, Dify, Langflow, CrewAI
+- **Applied AI:** agentic systems, MCP, multimodal RAG, LangChain, LlamaIndex, Qdrant, n8n, Dify, Langflow, CrewAI
 - **Engineering:** Python, TypeScript, Node.js, React / Next.js, PostgreSQL, SQL
 - **Delivery:** Agile (Scrum, Kanban), budget and risk management, stakeholder management
 
@@ -80,6 +80,14 @@ Solution architect and project manager. I lead programs where **compliance, secu
 
 ## Current focus
 
-Open-weight models and local inference, systematic LLM evals, and agentic architectures: MCP, tool design, guardrails.
+- **DevOps automation:** infrastructure as code, CI/CD, and day-to-day platform operations, mostly on GCP and AWS.
+- **Cloud and AI integrations:** connecting LLM services and agents to existing cloud platforms, APIs, and business workflows.
+- **AI agents for operations:** using coding agents and agent harnesses (MCP servers, skills, hooks, guardrails) to automate DevOps and infrastructure work safely.
+
+## Studying and improving
+
+- Machine learning fundamentals and open-weight models: local inference, quantization, serving
+- LLM evaluation: golden datasets, LLM-as-judge, regression testing
+- Agent frameworks and deep agents: planning, sub-agents, memory, tool design
 
 Klagenfurt, Austria · Trieste, Italy · Italian (native), English, German
