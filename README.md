@@ -14,12 +14,12 @@ Solution architect and project manager. I lead programs where **compliance, secu
 
 ## Now
 
-**[ActBI](https://actbi.ai)**: I work on the DevOps side of an AI-powered analytics assistant: cloud infrastructure, CI/CD and deployment automation, and security and compliance.
-
-**Blackwall** (formerly BotGuard): Project Manager & Solution Architect, since 2025
+**[Blackwall](https://blackwall.com/en/home)** (formerly BotGuard): Project Manager & Solution Architect, since 2025
 - **ISO 27001 program.** Leading organization-wide certification end to end: ISMS scope, policies, control framework, risk assessment, and cross-functional execution toward the audit.
 - **Cloud marketplace integration.** Architecting custom APIs that connect our platform to an enterprise cloud commerce marketplace, turning existing infrastructure into a fully automated SaaS offering that provisions straight into client workflows.
 - **Delivery.** Multi-stakeholder initiatives with complex dependencies, run on timeline, scope, and budget.
+
+**[ActBI](https://actbi.ai)**: I work on the DevOps side of an AI-powered analytics assistant: cloud infrastructure, CI/CD and deployment automation, and security and compliance.
 
 ## Open source
 
