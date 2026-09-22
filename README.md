@@ -23,9 +23,17 @@ Solution architect and project manager. I lead programs where **compliance, secu
 
 ## Open source
 
-**[Shiproom](https://github.com/nicobts/shiproom)**: an adversarial AI council that stress-tests project ideas before you build them. Seven seats (CTO, CFO, VC, CMO, CEO, your customer, a Chair), each with a kill mandate and a sourced fact base, deliver a pre-committed verdict: INVEST, SHIP_AND_SEE, or SHELVE. Zero-dependency Node CLI; runs in Claude Code, Cursor, Codex, Gemini CLI, and any AGENTS.md-aware agent.
+**[Shiproom](https://github.com/nicobts/shiproom)**: an adversarial AI council that stress-tests project ideas before you build them. Seven seats (CTO, CFO, VC, CMO, CEO, your customer, a Chair), each with a kill mandate and a sourced fact base, deliver a pre-committed verdict: INVEST, SHIP_AND_SEE, or SHELVE. Ships as an Agent Skill and a Claude Code plugin, so it runs in Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and other skills-aware agents.
+
+[GitHub](https://github.com/nicobts/shiproom) · [Website](https://nicobts.github.io/shiproom/)
 
 <a href="https://github.com/nicobts/shiproom"><img alt="Shiproom CI status and license" src="https://shieldcn.dev/group/github/nicobts/shiproom/ci+github/nicobts/shiproom/license.svg?variant=secondary" /></a>
+
+**[Artifact Room](https://artifact-room.com)**: an open-source, self-hostable home for the interactive HTML that AI tools generate. Share an artifact through unbranded, per-recipient links you own, keep it sandboxed and access-controlled, and see what each recipient actually did with it: which sections they read, whether they came back, whether they forwarded it. Cookieless analytics, one small container. The Community Edition is AGPL-3.0.
+
+[GitHub (Community Edition)](https://github.com/nicobts/artifact-room-ce) · [Website](https://artifact-room.com)
+
+<a href="https://github.com/nicobts/artifact-room-ce"><img alt="Artifact Room CE CI status and license" src="https://shieldcn.dev/group/github/nicobts/artifact-room-ce/ci+github/nicobts/artifact-room-ce/license.svg?variant=secondary" /></a>
 
 ## Track record
 
