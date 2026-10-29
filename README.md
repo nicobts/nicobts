@@ -37,7 +37,7 @@ Solution architect and project manager. I lead programs where **compliance, secu
 
 ## Track record
 
-- **Onda TLC**, Product Manager (2020–2024): took a telecom product from concept to market, owning strategy, team, and delivery. **$10M+ first-year revenue** and a **$5M provider contract**.
+- **Onda TLC**, Project Manager (2020–2024): took a telecom product from concept to market, owning strategy, team, and delivery. **$10M+ first-year revenue** and a **$5M provider contract**.
 - **Red Jobs**, IT & Security Administrator (2024–2025): ran the Fortinet security layer (firewalls, IDS/IPS, VPN), hybrid infrastructure across on-prem, AWS, DigitalOcean, and Cloudflare, and deployed agentic-AI workflows for internal automation.
 - **heia**, IT Project Manager (2024–2025): owned the e-commerce platform and its integrations, brought the first AI agents into operations, coordinated marketing and sales, and reported to shareholders.
 - **Universität Klagenfurt** (2021): 5G / cloud / fog computing research project.
